@@ -66,3 +66,10 @@ Today's Progress: CSS Grid
 Thoughts: Finished learning CSS grid and the course, can't wait to start working on the projects.
 
 #ConquerFreeCodeCamp
+
+# Day 09 : July 09, 2020
+Today's Progress: Finished first Project
+
+Thoughts: Built a responsive tribute page to Paul Walker<https://codepen.io/ashwin-vazhappilly/pen/KKVRxGo?editors=1000>
+
+#ConquerFreeCodeCamp
